@@ -1,0 +1,37 @@
+{
+  "editor:toggle-bold": [],
+  "editor:delete-paragraph": [],
+  "editor:open-search": [],
+  "graph:open": [],
+  "editor:insert-link": [],
+  "workspace:close": [],
+  "editor:toggle-comments": [],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "markdown:toggle-preview": [],
+  "file-explorer:new-file": [],
+  "editor:save-file": [],
+  "global-search:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "markdown:add-metadata-property": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
+    }
+  ]
+}
