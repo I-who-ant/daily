@@ -1,1 +1,21 @@
+# Obsidian 工作区配置（个人设置）
 .obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian 缓存
+.obsidian/cache
+
+# Obsidian 插件临时文件
+.obsidian/plugins/*/data.json
+.trash/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+*~
+.*.swp
+.*.swo
