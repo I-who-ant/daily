@@ -1,6 +1,6 @@
 ---
-title: 。。。
-description: 规范一天需要记录的东东
+title:
+description:
 tags:
   - 初始
 ---
@@ -29,8 +29,10 @@ tags:
 
 
 最后 ， 我需要 将一天进行一次总结 ， 方便我 进行知识的回顾 。 嗯 ， 不偷懒了。 
+（ 需要在周末进行一次总结 ： （待我细细规划））
 
 [^1]
 [刚刚看的文章](https://aeon.co/essays/the-hidden-role-of-pride-and-shame-in-the-human-hive)
 [^1]: 今天就懒得弄那么全了 ， 现在开始规范 ，怎么说 ？ let's freaking go!
+
 
